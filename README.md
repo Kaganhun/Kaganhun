@@ -48,3 +48,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/kaganhun/kaganhun/output/snake.svg" alt="Snake animation" />
+
+###
